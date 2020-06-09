@@ -33,6 +33,8 @@ Collocation := sequence of words that occur together unusually often. (red wine)
 we can get collocations by (text).collocations() built-in functions\
 collocation which emerges are very specific genre of the texts\
 
+![FreqDist](./Table3_1.png)
+
 ## 5. Automatic Natural Language Understanding
 ### 5.1 Word Sence Disambiguation
 
@@ -100,6 +102,8 @@ so simple rules - `When is`, `I want to know when` - gives system to provide a u
 
 architectures make simple pipeline of language understanding components.\
 it parse speech input via systaticially so make representation.\
+
+![FlowDiagram](./fig5_1.png)
 
 ### 5.6 Textual Entailment
 a.		Text: David Golinkin is the editor or author of eighteen books, and over 150 responsa, articles, sermons and books\
