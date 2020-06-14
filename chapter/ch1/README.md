@@ -48,11 +48,11 @@ c.		The lost children were found by the afternoon (temporal)
 How can we disambiguate them?
 
 ### 5.2 Pronoun Resolution
-who did what to whom := to detect the subjects and objects of verbs.\
+who did what to whom := to detect the subjects and objects of verbs.
 
 a.		The thieves stole the paintings. They were subsequently sold.\
 b.		The thieves stole the paintings. They were subsequently caught.\
-c.		The thieves stole the paintings. They were subsequently found.\
+c.		The thieves stole the paintings. They were subsequently found.
 
 How we can determine what is objective. \
 Answering this question involves finding the antecedent(선행사) of the pronoun.\
